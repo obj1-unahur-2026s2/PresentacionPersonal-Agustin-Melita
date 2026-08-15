@@ -1,6 +1,5 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-Programación con objetos I
 Agustin Melita
 
 Hola, soy Agustin Melita. Estoy cursando mi tercer cuatrimestre de la carrera de videojuegos.
